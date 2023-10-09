@@ -6,7 +6,7 @@ from pprint import pprint
 
 # Вместо BOT TOKEN HERE нужно вставить токен вашего бота,
 # полученный у @BotFather
-BOT_TOKEN = '6317434316:AAHQsS5xHGkp2cpSu7-YcjIYHBehHylIIyE'
+BOT_TOKEN = 'BOT_TOKEN'
 
 # Создаем объекты бота и диспетчера
 bot = Bot(token=BOT_TOKEN)
